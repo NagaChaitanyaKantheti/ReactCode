@@ -1,0 +1,7 @@
+export const ADD_IDEA='ADD_IDEA';
+export const CHANGE_EDIT_FLAG='CHANGE_EDIT_FLAG';
+export const EDIT_IDEA='EDIT_IDEA';
+export const DELETE_IDEA='DELETE_IDEA';
+export const ARCHIVELIST='ARCHIVELIST';
+export const CHANGE_PINNED_FLAG='CHANGE_PINNED_FLAG';
+export const UPDATE_ID='UPDATE_ID';
